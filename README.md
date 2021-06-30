@@ -1,5 +1,3 @@
-# text-nuxt-with-vue-intersect
-
 ## Build Setup
 
 ```bash
